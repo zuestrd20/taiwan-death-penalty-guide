@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2010-04-30",
+    "executions": 4,
+    "president": "馬英九",
+    "source_url": "https://www.moj.gov.tw/media/2168/16201055633.pdf?mediaDL=true",
+    "source_note": "法務部99年年鑑，提及4月30日張俊宏等4人",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2011-03-04",
+    "executions": 5,
+    "president": "馬英九",
+    "source_url": "https://www.moj.gov.tw/2204/2795/2796/55444/",
+    "source_note": "法務部當日執行完畢新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2012-12-21",
+    "executions": 6,
+    "president": "馬英九",
+    "source_url": "https://www.moj.gov.tw/2204/2795/2796/56170/post",
+    "source_note": "法務部當日執行完畢新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2013-04-19",
+    "executions": 6,
+    "president": "馬英九",
+    "source_url": "https://www.moj.gov.tw/2204/2795/2796/56457/post",
+    "source_note": "法務部當日執行完畢新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2014-04-29",
+    "executions": 5,
+    "president": "馬英九",
+    "source_url": "https://www.moj.gov.tw/media/1692/410281734945.pdf?mediaDL=true",
+    "source_note": "法務部當日執行完畢新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2015-06-05",
+    "executions": 6,
+    "president": "馬英九",
+    "source_url": "https://www.moj.gov.tw/media/1696/56617324181.pdf?mediaDL=true",
+    "source_note": "法務部當日新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2016-05-10",
+    "executions": 1,
+    "president": "馬英九",
+    "source_url": "https://www.tph.moj.gov.tw/4421/4543/4549/29385/post",
+    "source_note": "高檢署2016年大事記；2016-05-10晚間20:47執行",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2018-08-31",
+    "executions": 1,
+    "president": "蔡英文",
+    "source_url": "https://www.moj.gov.tw/media/14658/66518083117185ad1f.pdf?mediaDL=true",
+    "source_note": "法務部當日執行完畢新聞稿；8月30日批准，31日執行",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2020-04-01",
+    "executions": 1,
+    "president": "蔡英文",
+    "source_url": "https://www.moj.gov.tw/2204/2795/2796/37952/post",
+    "source_note": "法務部當日執行完畢新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  },
+  {
+    "date": "2025-01-16",
+    "executions": 1,
+    "president": "賴清德",
+    "source_url": "https://www.moj.gov.tw/2204/2795/2796/231525/post",
+    "source_note": "法務部當日執行完畢新聞稿",
+    "retrieved_at": "2026-10-04",
+    "batch_definition": "同一執行日期合併一批；不是刑場數或核准令數"
+  }
+]

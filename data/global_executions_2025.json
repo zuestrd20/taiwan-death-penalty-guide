@@ -1,0 +1,115 @@
+{
+  "year": 2025,
+  "source_url": "https://www.amnesty.org/en/wp-content/uploads/2026/05/ACT5007782026ENGLISH.pdf",
+  "readable_mirror_url": "https://amnesty.is/wp-content/uploads/2026/05/Death-Sentences-and-Executions-2025_ENG.pdf",
+  "source_publication_date": "2026-05-18",
+  "accessed_date": "2026-10-04",
+  "source_page": 8,
+  "scope": "僅列報告確認執行的17國；名單未列者不得一律自動補0",
+  "total_recorded_minimum": 2707,
+  "aggregation_note": "作者將每一獨立+符號按2加入總和；本檔未知國別存null，不得渲染成2或0。數字無+仍只是來源記錄值。",
+  "records": [
+    {
+      "country": "Afghanistan",
+      "numeric_recorded": 6,
+      "source_display": "6",
+      "status": "recorded"
+    },
+    {
+      "country": "China",
+      "numeric_recorded": null,
+      "source_display": "+",
+      "status": "unknown_count_confirmed_executions"
+    },
+    {
+      "country": "Egypt",
+      "numeric_recorded": 23,
+      "source_display": "23",
+      "status": "recorded"
+    },
+    {
+      "country": "Iran",
+      "numeric_recorded": 2159,
+      "source_display": "2159+",
+      "status": "minimum"
+    },
+    {
+      "country": "Iraq",
+      "numeric_recorded": null,
+      "source_display": "+",
+      "status": "unknown_count_confirmed_executions"
+    },
+    {
+      "country": "Japan",
+      "numeric_recorded": 1,
+      "source_display": "1",
+      "status": "recorded"
+    },
+    {
+      "country": "Kuwait",
+      "numeric_recorded": 17,
+      "source_display": "17",
+      "status": "recorded"
+    },
+    {
+      "country": "North Korea",
+      "numeric_recorded": null,
+      "source_display": "+",
+      "status": "unknown_count_confirmed_executions"
+    },
+    {
+      "country": "Saudi Arabia",
+      "numeric_recorded": 356,
+      "source_display": "356+",
+      "status": "minimum"
+    },
+    {
+      "country": "Singapore",
+      "numeric_recorded": 17,
+      "source_display": "17",
+      "status": "recorded"
+    },
+    {
+      "country": "Somalia",
+      "numeric_recorded": 17,
+      "source_display": "17+",
+      "status": "minimum"
+    },
+    {
+      "country": "South Sudan",
+      "numeric_recorded": 1,
+      "source_display": "1",
+      "status": "recorded"
+    },
+    {
+      "country": "Taiwan",
+      "numeric_recorded": 1,
+      "source_display": "1",
+      "status": "recorded"
+    },
+    {
+      "country": "United Arab Emirates",
+      "numeric_recorded": 3,
+      "source_display": "3",
+      "status": "recorded"
+    },
+    {
+      "country": "United States",
+      "numeric_recorded": 47,
+      "source_display": "47",
+      "status": "recorded"
+    },
+    {
+      "country": "Viet Nam",
+      "numeric_recorded": null,
+      "source_display": "+",
+      "status": "unknown_count_confirmed_executions"
+    },
+    {
+      "country": "Yemen",
+      "numeric_recorded": 51,
+      "source_display": "51+",
+      "status": "minimum"
+    }
+  ]
+}

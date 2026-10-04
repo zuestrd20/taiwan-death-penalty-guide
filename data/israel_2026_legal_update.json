@@ -1,0 +1,30 @@
+{
+  "accessed_date": "2026-10-04",
+  "scope": "2025報告提及的2026法律異動；非完整2026現況調查",
+  "country": "Israel",
+  "law": "Death Penalty for Terrorists Law, 2026",
+  "passed_date": "2026-03-30",
+  "passed_stage": "second_and_third_readings",
+  "publication_date": "2026-04-05",
+  "official_gazette_reference": "Sefer Ha-Chukkim 3520, p.490; Knesset catalogue metadata",
+  "effective_date": null,
+  "implementation_status": "not_verified_in_this_check",
+  "classification_2025_source_unchanged": "abolitionist_for_ordinary_crimes_only",
+  "classification_2026": null,
+  "sources": [
+    {
+      "url": "https://main.knesset.gov.il/EN/News/PressReleases/Pages/press30326r.aspx",
+      "date": "2026-03-30",
+      "supports": "final readings passed; indexed official text, direct text extraction unavailable"
+    },
+    {
+      "url": "https://main.knesset.gov.il/Activity/Legislation/Laws/pages/lawprimary.aspx?lawitemid=2242356&st=lawlaws&t=lawlaws",
+      "supports": "enacted law catalogue and 2026-04-05 publication metadata; direct text extraction unavailable"
+    },
+    {
+      "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30993",
+      "date": "2026-05-11",
+      "supports": "UN special procedures official communication; full PDF readable; corroborates adoption and summarizes two jurisdictions"
+    }
+  ]
+}

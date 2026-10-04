@@ -1,0 +1,182 @@
+{
+  "status": "reviewed_public_research_snapshot",
+  "coverage": "1996–2025已核點，並非完整逐年序列",
+  "missing_years": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2006,
+    2007,
+    2008,
+    2012,
+    2013,
+    2014
+  ],
+  "records": [
+    {
+      "year": 1996,
+      "recorded_minimum": 4272,
+      "executing_countries": 39,
+      "source_url": "https://www.amnesty.org/en/documents/act51/001/1997/en/",
+      "source_publication_date": "1997-03-24",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "包括當時中國最低估計；與2009後口徑不可直接比較"
+    },
+    {
+      "year": 2005,
+      "recorded_minimum": 2148,
+      "executing_countries": 22,
+      "source_url": "https://www.amnesty.org.uk/knowledge-hub/all-resources/annual-death-penalty-report-reveals-20000-death-row-worldwide/",
+      "source_publication_date": "2006-04-19",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "包括當時中國最低估計1770；與2009後口徑不可直接比較"
+    },
+    {
+      "year": 2009,
+      "recorded_minimum": 714,
+      "executing_countries": null,
+      "source_url": "https://www.amnestyusa.org/reports/death-penalty-in-2010-executing-countries-left-isolated-after-decade-of-progress/",
+      "source_publication_date": "2011-03-25",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2010,
+      "recorded_minimum": 527,
+      "executing_countries": null,
+      "source_url": "https://www.amnestyusa.org/reports/death-penalty-in-2010-executing-countries-left-isolated-after-decade-of-progress/",
+      "source_publication_date": "2011-03-25",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2011,
+      "recorded_minimum": 676,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/act500012012en.pdf",
+      "source_publication_date": "2012-03",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2015,
+      "recorded_minimum": 1634,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/en/latest/news/2016/04/video-death-penalty-facts-and-statistics-2015/",
+      "source_publication_date": "2016-04-06",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2016,
+      "recorded_minimum": 1032,
+      "executing_countries": null,
+      "source_url": "https://amnesty.is/assets/daudarefsingarskyrsla-amnesty-international-2023.pdf",
+      "source_publication_date": "2024-05-29",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2017,
+      "recorded_minimum": 993,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2023/05/ACT5065482023SPANISH.pdf",
+      "source_publication_date": "2023-05-16",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2018,
+      "recorded_minimum": 690,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2023/05/ACT5065482023SPANISH.pdf",
+      "source_publication_date": "2023-05-16",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2019,
+      "recorded_minimum": 657,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2023/05/ACT5065482023SPANISH.pdf",
+      "source_publication_date": "2023-05-16",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2020,
+      "recorded_minimum": 483,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2023/05/ACT5065482023SPANISH.pdf",
+      "source_publication_date": "2023-05-16",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2021,
+      "recorded_minimum": 579,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2023/05/ACT5065482023SPANISH.pdf",
+      "source_publication_date": "2023-05-16",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2022,
+      "recorded_minimum": 883,
+      "executing_countries": null,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2023/05/ACT5065482023SPANISH.pdf",
+      "source_publication_date": "2023-05-16",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2023,
+      "recorded_minimum": 1153,
+      "executing_countries": 16,
+      "source_url": "https://www.amnesty.org/en/latest/news/2024/05/global-executions-soar-highest-number-in-decade/",
+      "source_publication_date": "2024-05-29",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2024,
+      "recorded_minimum": 1518,
+      "executing_countries": 15,
+      "source_url": "https://www.amnesty.org/en/latest/news/2025/04/global-recorded-executions-hit-their-highest-figure-since-2015/",
+      "source_publication_date": "2025-04-08",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "不含中國未公開的完整數目；其他國亦有資訊缺口；最低數並非完整世界總數"
+    },
+    {
+      "year": 2025,
+      "recorded_minimum": 2707,
+      "executing_countries": 17,
+      "source_url": "https://www.amnesty.org/en/documents/act50/0778/2026/en/",
+      "source_publication_date": "2026-05-18",
+      "accessed_date": "2026-10-04",
+      "qualifier": "at_least",
+      "note": "全球最低總數；原報告方法將單獨+按2計算，包括中國；國別不得將+當作實際2人"
+    }
+  ]
+}

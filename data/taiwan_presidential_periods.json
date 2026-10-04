@@ -1,0 +1,62 @@
+[
+  {
+    "president": "李登輝",
+    "observed_start_inclusive": "1996-01-01",
+    "observed_end_exclusive": "2000-05-20",
+    "executions": null,
+    "execution_date_batches": null,
+    "annual_average": null,
+    "term_date_source_url": "https://www.president.gov.tw/Page/86",
+    "execution_sources": "taiwan_annual.json; taiwan_execution_batches.json",
+    "retrieved_at": "2026-10-04",
+    "notes": "僅研究範圍重疊期，非完整任期；2000交接前執行未拆分。"
+  },
+  {
+    "president": "陳水扁",
+    "observed_start_inclusive": "2000-05-20",
+    "observed_end_exclusive": "2008-05-20",
+    "executions": null,
+    "execution_date_batches": null,
+    "annual_average": null,
+    "term_date_source_url": "https://www.president.gov.tw/Page/87",
+    "execution_sources": "taiwan_annual.json; taiwan_execution_batches.json",
+    "retrieved_at": "2026-10-04",
+    "notes": "2000交接後執行未完成核驗，不以2001–2005的32人替代。"
+  },
+  {
+    "president": "馬英九",
+    "observed_start_inclusive": "2008-05-20",
+    "observed_end_exclusive": "2016-05-20",
+    "executions": 33,
+    "execution_date_batches": 7,
+    "annual_average": 4.125,
+    "term_date_source_url": "https://www.president.gov.tw/Page/88",
+    "execution_sources": "taiwan_annual.json; taiwan_execution_batches.json",
+    "retrieved_at": "2026-10-04",
+    "notes": "全8年任內。"
+  },
+  {
+    "president": "蔡英文",
+    "observed_start_inclusive": "2016-05-20",
+    "observed_end_exclusive": "2024-05-20",
+    "executions": 2,
+    "execution_date_batches": 2,
+    "annual_average": 0.25,
+    "term_date_source_url": "https://www.president.gov.tw/Page/705",
+    "execution_sources": "taiwan_annual.json; taiwan_execution_batches.json",
+    "retrieved_at": "2026-10-04",
+    "notes": "全8年任內。"
+  },
+  {
+    "president": "賴清德",
+    "observed_start_inclusive": "2024-05-20",
+    "observed_end_exclusive": "2026-09-01",
+    "executions": 1,
+    "execution_date_batches": 1,
+    "annual_average": null,
+    "term_date_source_url": "https://www.president.gov.tw/Page/705",
+    "execution_sources": "taiwan_annual.json; taiwan_execution_batches.json",
+    "retrieved_at": "2026-10-04",
+    "notes": "依前任卸任日作邊界；截至已公布月份2026-08-31，非完整任期，不提供排名年均。"
+  }
+]

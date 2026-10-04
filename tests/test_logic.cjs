@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');const L=require('../logic.js');const read=n=>JSON.parse(fs.readFileSync(path.join(__dirname,'../data',n),'utf8'));const a=read('taiwan_annual.json'),g=read('global_executions_2025.json'),p=read('taiwan_presidential_periods.json'),b=read('taiwan_execution_batches.json');let count=0;const test=(name,fn)=>{fn();count++;console.log('PASS',name)};
+test('30 full years / sum 201 / average 6.7',()=>assert.deepEqual(L.summarize(L.filterAnnual(a.rows,1996,2025)),{total:201,years:30,average:6.7}));
+test('2026 partial excluded',()=>assert(!L.filterAnnual(a.rows,1996,2026).some(r=>r.year===2026)));
+test('range reverse and bounds',()=>{assert.deepEqual(L.normalizeRange(2025,1996),[1996,2025]);assert.deepEqual(L.normalizeRange(1900,2100),[1996,2025])});
+test('zero is preserved',()=>assert.equal(L.filterAnnual(a.rows,2006,2009).reduce((s,r)=>s+r.executions,0),0));
+test('31 rows unique with provenance and dates',()=>{assert.equal(new Set(a.rows.map(r=>r.year)).size,31);assert(a.rows.every(r=>r.source_url.startsWith('https://')&&r.retrieved_at&&r.period_end))});
+test('2000 term split stays unknown',()=>{assert.equal(p[0].executions,null);assert.equal(p[1].executions,null);assert.equal(p[1].annual_average,null)});
+test('verified presidents reconcile batches 33/2/1',()=>{for(const [name,n] of [['馬英九',33],['蔡英文',2],['賴清德',1]])assert.equal(b.filter(x=>x.president===name).reduce((s,x)=>s+x.executions,0),n)});
+test('2016 execution before handover',()=>assert.equal(b.find(x=>x.date.startsWith('2016')).date,'2016-05-10'));
+test('17 countries / four unknowns',()=>{assert.equal(g.records.length,17);assert.equal(L.filterGlobal(g.records,'unknown').length,4);assert(L.filterGlobal(g.records,'unknown').every(r=>r.source_display==='+'&&r.numeric_recorded===null))});
+test('global source total uses + aggregation convention only',()=>assert.equal(g.records.reduce((s,r)=>s+(r.numeric_recorded??2),0),2707));
+test('199 entity classification',()=>assert.equal(113+9+23+54,199));
+test('search case-insensitive / multiple terms / no result',()=>{assert(L.searchMatch('TAEDP 廢死聯盟','taedp 廢死'));assert(!L.searchMatch('假釋','假釋 天堂'))});
+test('time band actual handover and bounded widths',()=>{const s=L.periodSegments(p,1996,2025);assert.equal(s.length,5);assert(Math.abs(s.reduce((a,r)=>a+r.width,0)-100)<1e-8);assert(s.every(r=>r.left>=0&&r.width>0));assert(s[0].width!==5/30*100)});
+test('2026 date and raw dash preserved',()=>{const r=a.rows.at(-1);assert.equal(r.period_end,'2026-08-31');assert.equal(r.source_raw_value,'－')});
+test('Israel effective date and classification not invented',()=>{const r=read('israel_2026_legal_update.json');assert.equal(r.effective_date,null);assert.equal(r.classification_2026,null);assert.equal(r.passed_date,'2026-03-30')});
+console.log(`${count} logic/data tests passed`);

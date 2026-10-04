@@ -1,0 +1,62 @@
+{
+  "status": "versioned_milestones_not_harmonised_annual_series",
+  "accessed_date": "2026-10-04",
+  "records": [
+    {
+      "year": 1996,
+      "abolitionist_all_crimes": null,
+      "abolitionist_law_or_practice": 100,
+      "source_url": "https://www.amnesty.org/es/wp-content/uploads/2021/06/act500051997en.pdf",
+      "source_publication_date": "1997",
+      "note": "全面廢除58/59/60有版本差，待逐國重建；不補值"
+    },
+    {
+      "year": 2000,
+      "abolitionist_all_crimes": 75,
+      "abolitionist_law_or_practice": 108,
+      "source_url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/act500012001en.pdf",
+      "source_publication_date": "2001",
+      "note": "後續歷史回列亦有分類差，保留當版"
+    },
+    {
+      "year": 2005,
+      "abolitionist_all_crimes": 86,
+      "abolitionist_law_or_practice": 122,
+      "source_url": "https://www.amnesty.org.tr/public/uploads/files/Rapor/POL1000012006ENGLISH.pdf",
+      "source_publication_date": "2006",
+      "note": ""
+    },
+    {
+      "year": 2010,
+      "abolitionist_all_crimes": 96,
+      "abolitionist_law_or_practice": 139,
+      "source_url": "https://www.amnesty.eu/wp-content/uploads/2018/10/Death_Penalty_2010.pdf",
+      "source_publication_date": "2011-03",
+      "note": "96+9+34"
+    },
+    {
+      "year": 2015,
+      "abolitionist_all_crimes": 102,
+      "abolitionist_law_or_practice": 140,
+      "source_url": "https://amnesty.no/dodsstraffrapporten-2015-hoyeste-antall-henrettelser-pa-over-25-ar",
+      "source_publication_date": "2016-04",
+      "note": ""
+    },
+    {
+      "year": 2020,
+      "abolitionist_all_crimes": 108,
+      "abolitionist_law_or_practice": 144,
+      "source_url": "https://www.amnesty.org/es/latest/press-release/2021/04/death-penalty-in-2020-facts-and-figures/",
+      "source_publication_date": "2021-04-21",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "abolitionist_all_crimes": 113,
+      "abolitionist_law_or_practice": 145,
+      "source_url": "https://www.amnesty.org/en/wp-content/uploads/2026/05/ACT5007782026ENGLISH.pdf",
+      "source_publication_date": "2026-05-18",
+      "note": "113全面；9普通犯罪；23實務；54保留。來源母體199"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "entity": "社團法人台灣廢除死刑推動聯盟",
+  "abbreviation": "TAEDP",
+  "checked_at": "2026-10-04",
+  "status": "reviewed_public_research_snapshot",
+  "identity": {
+    "movement_founded": "2003",
+    "legal_incorporation": "2013-01-22",
+    "legal_incorporation_evidence": "third_party_registry_mirror; original 2013 notice not retrieved",
+    "source_urls": [
+      "https://www.taedp.org.tw/about",
+      "https://foundations.olc.tw/foundations/view/544137a5-9eb8-43dd-bc61-2b20acb5b862/"
+    ]
+  },
+  "governance": {
+    "term_label": "第四屆",
+    "registered_at": "2024-10-18",
+    "published_at": "2024-10-23",
+    "term_start": null,
+    "term_end": null,
+    "current_status_caveat": "最新查得登記資料，未證實任期起訖或查核日無其他變動",
+    "source_url": "https://www.judicial.gov.tw/tw/cp-144-1186331-e8270-1.html",
+    "people": [
+      {
+        "name": "張娟芬",
+        "role": "理事長"
+      },
+      {
+        "name": "高烊輝",
+        "role": "副理事長"
+      },
+      {
+        "name": "郝柏瑋",
+        "role": "常務理事"
+      },
+      {
+        "name": "翁麗淑",
+        "role": "理事"
+      },
+      {
+        "name": "潘儀",
+        "role": "理事"
+      },
+      {
+        "name": "李艾倫",
+        "role": "理事"
+      },
+      {
+        "name": "翁國彥",
+        "role": "理事"
+      },
+      {
+        "name": "林俊宏",
+        "role": "理事"
+      },
+      {
+        "name": "陳弘儒",
+        "role": "理事"
+      },
+      {
+        "name": "施逸翔",
+        "role": "常務監事"
+      },
+      {
+        "name": "馮喬蘭",
+        "role": "監事"
+      },
+      {
+        "name": "謝仁郡",
+        "role": "監事"
+      }
+    ]
+  },
+  "public_staff_not_exhaustive": [
+    {
+      "name": "林欣怡",
+      "role": "執行長",
+      "source_date": "2026-04-02",
+      "source_url": "https://www.taedp.org.tw/en/node/11580"
+    },
+    {
+      "name": "吳佳臻",
+      "role": "副執行長",
+      "source_date": null,
+      "source_url": "https://news.pts.org.tw/article/804965"
+    },
+    {
+      "name": "楊雁絜",
+      "role": "法務主任",
+      "source_date": "2026-05-18",
+      "source_url": "https://www.taedp.org.tw/story/11594"
+    },
+    {
+      "name": "王昱翔",
+      "role": "法務專員",
+      "source_date": "2026-04-02",
+      "source_url": "https://www.taedp.org.tw/en/node/11580"
+    },
+    {
+      "name": "李玗靜",
+      "role": "倡議專員",
+      "source_date": "2026-04-02",
+      "source_url": "https://www.taedp.org.tw/en/node/11580"
+    },
+    {
+      "name": "羅禮涵",
+      "role": "倡議主任",
+      "source_date": "2025-12-31",
+      "source_url": "https://www.taedp.org.tw/node?page=1"
+    }
+  ],
+  "finance_examples": [
+    {
+      "kind": "monthly_donation_disclosure",
+      "period": "2026-06",
+      "amount": null,
+      "currency": "TWD",
+      "source_url": "https://www.taedp.org.tw/donatecredit/11617",
+      "caveat": "不是完整年度決算或審計財報；不收錄個人捐款名單"
+    },
+    {
+      "kind": "project_disclosed_total",
+      "project": "讓黑暗的盡頭有光",
+      "amount": 598313,
+      "currency": "TWD",
+      "source_url": "https://www.taedp.org.tw/donatecredit/11542",
+      "caveat": "查核時頁面顯示，非全年度總收入、未核對結案報告"
+    },
+    {
+      "kind": "historical_government_grant",
+      "date": "2007-07-19",
+      "provider": "法務部",
+      "amount": 200000,
+      "currency": "TWD",
+      "source_url": "https://www.moj.gov.tw/2204/2645/2650/2685/18353/",
+      "caveat": "不能推論現在仍持續或是主要收入"
+    }
+  ],
+  "publication_rules": [
+    "組織自述不等於法院認定",
+    "合作不等於隸屬",
+    "參與不等於單獨因果",
+    "已平反案件與救援中案件分開",
+    "不把死刑適用限縮稱為全面廢死",
+    "未取得資料不等於不存在"
+  ]
+}

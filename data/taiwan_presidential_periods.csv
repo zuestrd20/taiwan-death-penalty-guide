@@ -1,0 +1,6 @@
+president,observed_start_inclusive,observed_end_exclusive,executions,execution_date_batches,annual_average,term_date_source_url,execution_sources,retrieved_at,notes
+李登輝,1996-01-01,2000-05-20,,,,https://www.president.gov.tw/Page/86,taiwan_annual.json; taiwan_execution_batches.json,2026-10-04,僅研究範圍重疊期，非完整任期；2000交接前執行未拆分。
+陳水扁,2000-05-20,2008-05-20,,,,https://www.president.gov.tw/Page/87,taiwan_annual.json; taiwan_execution_batches.json,2026-10-04,2000交接後執行未完成核驗，不以2001–2005的32人替代。
+馬英九,2008-05-20,2016-05-20,33,7,4.125,https://www.president.gov.tw/Page/88,taiwan_annual.json; taiwan_execution_batches.json,2026-10-04,全8年任內。
+蔡英文,2016-05-20,2024-05-20,2,2,0.25,https://www.president.gov.tw/Page/705,taiwan_annual.json; taiwan_execution_batches.json,2026-10-04,全8年任內。
+賴清德,2024-05-20,2026-09-01,1,1,,https://www.president.gov.tw/Page/705,taiwan_annual.json; taiwan_execution_batches.json,2026-10-04,依前任卸任日作邊界；截至已公布月份2026-08-31，非完整任期，不提供排名年均。
