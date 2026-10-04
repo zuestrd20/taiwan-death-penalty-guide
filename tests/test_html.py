@@ -29,3 +29,8 @@ for match in re.findall(r'<script[^>]*src="([^"]+)"',text):assert (root/match).e
 # Every curated card contains its own evidence link; methods cards are editorial.
 for chunk in text.split('<article class="card searchable">')[1:]:assert 'https://' in chunk.split('</article>')[0]
 print('PASS HTML: unique ids, internal links, local assets, 140+ direct sources, card/detail citation coverage, caveats, no republished PDFs')
+
+index=json.loads((root/"data/source-index.json").read_text())
+assert set(r["url"] for r in index)==set(p.external), "Source index must cover every rendered external evidence URL"
+assert len(index)==len(set(r["url"] for r in index)), "Duplicate source index entries"
+print("PASS complete, deduplicated source index")
