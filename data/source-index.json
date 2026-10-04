@@ -728,5 +728,185 @@
     "url": "https://www.moj.gov.tw/2204/2795/2796/195768/post",
     "label": "錯誤聲明原址",
     "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://survey.gov-online.go.jp/society_law/202502/r06/r06-houseido/",
+    "label": "內閣府，2024調查、2025公布，題2–6",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.moj.go.jp/content/001454557.pdf",
+    "label": "官方統計，2024資料，表1-1",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.moj.go.jp/keiji1/keiji_keiji11-10.html",
+    "label": "法務省，2025-05-29修訂",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00552.html",
+    "label": "法務省，2024-10記者會",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://journals.sagepub.com/doi/10.1177/1462474517706369",
+    "label": "同儕審查原始研究，2017先行發表／2018卷期",
+    "type": "學術／研究"
+  },
+  {
+    "url": "https://www.ccourt.go.kr/site/kor/ex/bbs/View.do?bcIdx=1000559&cbIdx=1195",
+    "label": "憲法法院，2010判決摘要",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://humanrights.go.kr/eng/board/read?boardManagementNo=7003&boardNo=7611561&menuLevel=2&menuNo=114&page=3&searchCategory=&searchType=&searchWord=",
+    "label": "國家人權委員會，2025-10聲明",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://english.ccourt.go.kr/site/eng/ex/bbs/View.do?bcIdx=984896&cbIdx=1142",
+    "label": "憲法法院，官方英文摘要，2010-02-25",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.moj.go.kr/bbs/corrections/436/558627/artclView.do",
+    "label": "法務部，假釋運用說明",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.moj.go.kr/bbs/moj/182/457439/download.do",
+    "label": "法務部，2023立法預告文件",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.justice.gov/jm/jm-9-10000-capital-crimes",
+    "label": "司法部起訴指引，2026-06-05生效",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-imposes-moratorium-federal-executions-orders-review",
+    "label": "司法部，2021-07-01",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.justice.gov/opa/pr/justice-department-takes-actions-strengthen-federal-death-penalty",
+    "label": "司法部，2026-04-24",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.tn.gov/correction/news/2026/9/30/media-advisory--christa-pike--261368.html",
+    "label": "田納西矯正署事件公告，2026-09-30",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://mississippitoday.org/2026/10/01/tennessee-governor-halts-executions-christa-gail-pike-survives-lethal-injection/",
+    "label": "AP報導轉載，2026-10-01",
+    "type": "獨立新聞"
+  },
+  {
+    "url": "https://sso.agc.gov.sg/Act/MDA1973?ProvIds=pr33B-&ValidDate=20260601",
+    "label": "官方法規，第33B條，2026-06-01版本",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.elitigation.sg/gdviewer/s/2022_SGCA_75",
+    "label": "上訴法院，精神責任判準，2022 SGCA 75",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.mha.gov.sg/docs/default-source/media-room-doc/penal-code-review-committee-report3d9709ea6f13421b92d3ef8af69a4ad0.pdf",
+    "label": "內政部刑法檢討報告，2018，第37節",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://sso.agc.gov.sg/Act/PA1933?ProvIds=pr50P-",
+    "label": "《監獄法》第50P條",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.elitigation.sg/gd/s/2024_SGCA_39",
+    "label": "原始判決，2024 SGCA 39，第37、47段",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://isomer-user-content.by.gov.sg/341/085c2a5d-22db-452d-be1b-abbf4b3c2d02/home-team-journal-jan-2020-issue17e1a5b21df14567924fbde0000a6c25.pdf",
+    "label": "內政部研究，Home Team Journal，2020，頁56–64",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.mha.gov.sg/media-room/newsroom/committee-of-supply-debate-2022-on-singapore-approach-to-criminal-justice/",
+    "label": "政府論證，2022-03",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://justice.canada.ca/eng/cj-jp/victims-victimes/sentencing-peine/imposed-imposees.html",
+    "label": "司法部量刑說明，查核2026-10-04",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.canada.ca/en/parole-board/corporate/publications-and-forms/parole-decision-making-myths-and-realities.html",
+    "label": "假釋委員會制度澄清，查核2026-10-04",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.canada.ca/en/parole-board/corporate/transparency/reporting-to-canadians/performance-monitoring-report/2024-2025/performance-monitoring-report-results-2024-25.html",
+    "label": "假釋委員會，2024–25績效資料，查核2026-10-04",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://laws.justice.gc.ca/eng/AnnualStatutes/2024_33/FullText.html",
+    "label": "法案原文，2024-12-17",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.justice.gc.ca/eng/cj-jp/ccr-rc/cmc-cce.html",
+    "label": "司法部運作說明，查核2026-10-04",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006527559",
+    "label": "憲法66-1條，2007-02-24生效",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417402",
+    "label": "刑法132-23條，條文查核2026-10-04",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.justice.fr/je-suis-victime/116006",
+    "label": "司法部服務說明，2025-10-15",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.justice.fr/fiche/victime-infraction-indemnisation-fonds-garantie-victimes",
+    "label": "官方補償指南，2025-01-20",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www3.saflii.org/za/cases/ZACC/1995/3.html",
+    "label": "判決全文第87–89段，1995-06-06",
+    "type": "法律資料庫／司法原文"
+  },
+  {
+    "url": "https://www.concourt.org.za/index.php/judgement/317-phaahla-v-minister-of-justice-and-correctional-services-another-tlhakanye-intervening-cct44-18",
+    "label": "憲法法院Phaahla官方摘要，2019-05-03",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www3.saflii.org/za/cases/ZACC/2019/18.html",
+    "label": "判決全文第7–10段及主文，2019-05-03",
+    "type": "法律資料庫／司法原文"
+  },
+  {
+    "url": "https://www.gov.za/services/services-residents/dealing-law/victim-empowerment/make-representation-parole-board",
+    "label": "政府服務頁，查核2026-10-04",
+    "type": "政府／司法／國際機構"
+  },
+  {
+    "url": "https://www.dcs.gov.za/wp-content/uploads/DCS-SDIP-2025-30-BOOKLET-FINAL-APR-2025-LATEST.pdf",
+    "label": "DCS服務改善計畫，2025-04",
+    "type": "政府／司法／國際機構"
   }
 ]

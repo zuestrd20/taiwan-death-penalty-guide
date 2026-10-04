@@ -1,0 +1,175 @@
+{
+  "checked_at": "2026-10-04",
+  "scope": "七國討論深化；保留原2025與台灣統計口徑",
+  "countries": {
+    "日本": [
+      {
+        "id": "country-japan-01",
+        "heading": "背景與實際運作",
+        "chars": 194
+      },
+      {
+        "id": "country-japan-02",
+        "heading": "民意與權利爭論",
+        "chars": 253
+      },
+      {
+        "id": "country-japan-03",
+        "heading": "無期刑、假釋與被害者",
+        "chars": 419
+      },
+      {
+        "id": "country-japan-04",
+        "heading": "誤判、透明與犯罪效果",
+        "chars": 440
+      },
+      {
+        "id": "country-japan-05",
+        "heading": "台灣可以問什麼？",
+        "chars": 196
+      }
+    ],
+    "韓國": [
+      {
+        "id": "country-korea-01",
+        "heading": "背景與制度分岔",
+        "chars": 368
+      },
+      {
+        "id": "country-korea-02",
+        "heading": "支持與反對，法院內也有分歧",
+        "chars": 236
+      },
+      {
+        "id": "country-korea-03",
+        "heading": "無期刑如何執行？",
+        "chars": 488
+      },
+      {
+        "id": "country-korea-04",
+        "heading": "歷史冤案與停止執行的限制",
+        "chars": 553
+      },
+      {
+        "id": "country-korea-05",
+        "heading": "台灣可以問什麼？",
+        "chars": 275
+      }
+    ],
+    "美國": [
+      {
+        "id": "country-usa-01",
+        "heading": "背景與政治：不是一套全國一致的制度",
+        "chars": 719
+      },
+      {
+        "id": "country-usa-02",
+        "heading": "實際執行與替代刑",
+        "chars": 834
+      },
+      {
+        "id": "country-usa-03",
+        "heading": "爭論：應報之外，誰承受錯誤與不平等？",
+        "chars": 474
+      },
+      {
+        "id": "country-usa-04",
+        "heading": "效果證據與台灣啟示",
+        "chars": 254
+      }
+    ],
+    "新加坡": [
+      {
+        "id": "country-singapore-01",
+        "heading": "背景與實際執行",
+        "chars": 354
+      },
+      {
+        "id": "country-singapore-02",
+        "heading": "「運毒者例外」不是普遍裁量",
+        "chars": 320
+      },
+      {
+        "id": "country-singapore-03",
+        "heading": "終身監禁與司法保障",
+        "chars": 522
+      },
+      {
+        "id": "country-singapore-04",
+        "heading": "支持理由與效果研究",
+        "chars": 720
+      },
+      {
+        "id": "country-singapore-05",
+        "heading": "台灣可以問什麼？",
+        "chars": 301
+      }
+    ],
+    "加拿大": [
+      {
+        "id": "country-canada-01",
+        "heading": "背景：分階段退出國家處死權",
+        "chars": 274
+      },
+      {
+        "id": "country-canada-02",
+        "heading": "終身刑與假釋：25年是門檻，不是刑滿",
+        "chars": 599
+      },
+      {
+        "id": "country-canada-03",
+        "heading": "被害者、誤判與實際問責",
+        "chars": 657
+      },
+      {
+        "id": "country-canada-04",
+        "heading": "效果證據與台灣啟示",
+        "chars": 288
+      }
+    ],
+    "法國": [
+      {
+        "id": "country-france-01",
+        "heading": "背景：政治承諾、議會決定與憲法界線",
+        "chars": 559
+      },
+      {
+        "id": "country-france-02",
+        "heading": "替代刑：安全期間與例外審查不可混為刑期",
+        "chars": 465
+      },
+      {
+        "id": "country-france-03",
+        "heading": "被害者支持與持續爭論",
+        "chars": 400
+      },
+      {
+        "id": "country-france-04",
+        "heading": "效果證據與台灣啟示",
+        "chars": 317
+      }
+    ],
+    "南非": [
+      {
+        "id": "country-south-africa-01",
+        "heading": "背景：憲政轉型中重定國家刑罰權",
+        "chars": 336
+      },
+      {
+        "id": "country-south-africa-02",
+        "heading": "替代刑與公平：不同年代不能一律套25年",
+        "chars": 765
+      },
+      {
+        "id": "country-south-africa-03",
+        "heading": "高犯罪是真實問題，但不是廢死的因果證明",
+        "chars": 334
+      },
+      {
+        "id": "country-south-africa-04",
+        "heading": "台灣啟示與不能直接套用之處",
+        "chars": 258
+      }
+    ]
+  }
+}
